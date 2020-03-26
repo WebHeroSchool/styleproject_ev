@@ -1,52 +1,6 @@
-.button {
-  background: grey;
-  border-width: 5px;
-  text-decoration-line: none;
-}
-.button__2 {
-  background-color: transparent;
-  border-top: 2px solid grey;
-  text-transform: capitalize;
-}
-.footer {
-  font-family: Geneva, Arial, sans-serif;
-  color: orange;
-  word-spacing: normal;
-}
-.section__description {
-  color: blue;
-}
-head, footer {
-  direction: rtl;
-}
-.section__title_h2 {
-  font-weight: 100;
-  color: darkviolet;
-  font-kerning: normal;
-}
-article > p {
-  font-style: italic;
-}
-.article {
-  text-align: left;
-}
-section ~ h2 {
-  text-shadow: 2 px 2 px grey;
-}
-.# {
-  text-decoration-style: wavy;
+.body {
+  font-family: OpenSans, Arial, sans-serif;
 }
 .section__title {
-  color: red;
-  font-stretch: expanded;
-  font-variant-east-asian: normal;
-}
-.href {
-  text-decoration-color: inherit;
-}
-.button__3 {
-  border-image-width: 50px;
-}
-.p {
-  hyphens: auto;
+  font-family: Times New Roman, Serif;
 }
