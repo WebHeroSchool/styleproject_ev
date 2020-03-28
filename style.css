@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Roboto:700&display=swap&subset=cyrillic');
 .body {
-  font-family: OpenSans, Arial, sans-serif;
+  font-family: 'PT Serif', serif;
 }
 .section__title {
-  font-family: Times New Roman, Serif;
+  font-family: 'Roboto', sans-serif;
 }
